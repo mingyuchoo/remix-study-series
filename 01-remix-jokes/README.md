@@ -1,5 +1,9 @@
 # Welcome to Remix!
 
+## References
+
+- <https://remix.run/docs/en/v1/tutorials/jokes#read-from-the-database-in-a-remix-loader>
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
