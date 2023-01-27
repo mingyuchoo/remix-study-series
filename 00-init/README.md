@@ -6,7 +6,7 @@
 
 From your terminal:
 
-```sh
+```bash
 npm run dev
 ```
 
@@ -16,13 +16,13 @@ This starts your app in development mode, rebuilding assets on file changes.
 
 First, build your app for production:
 
-```sh
+```bash
 npm run build
 ```
 
 Then run the app in production mode:
 
-```sh
+```bash
 npm start
 ```
 
@@ -41,7 +41,7 @@ Make sure to deploy the output of `remix build`
 
 When you ran `npx create-remix@latest` there were a few choices for hosting. You can run that again to create a new project, then copy over your `app/` folder to the new project that's pre-configured for your target server.
 
-```sh
+```bash
 cd ..
 # create a new project, and pick a pre-configured host
 npx create-remix@latest
