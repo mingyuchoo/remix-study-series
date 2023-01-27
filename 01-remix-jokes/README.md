@@ -1,16 +1,12 @@
 # Welcome to Remix!
 
-## References
-
-- <https://remix.run/docs/en/v1/tutorials/jokes#read-from-the-database-in-a-remix-loader>
-
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
 
 From your terminal:
 
-```bash
+```sh
 npm run dev
 ```
 
@@ -20,13 +16,13 @@ This starts your app in development mode, rebuilding assets on file changes.
 
 First, build your app for production:
 
-```bash
+```sh
 npm run build
 ```
 
 Then run the app in production mode:
 
-```bash
+```sh
 npm start
 ```
 
@@ -45,7 +41,7 @@ Make sure to deploy the output of `remix build`
 
 When you ran `npx create-remix@latest` there were a few choices for hosting. You can run that again to create a new project, then copy over your `app/` folder to the new project that's pre-configured for your target server.
 
-```bash
+```sh
 cd ..
 # create a new project, and pick a pre-configured host
 npx create-remix@latest
