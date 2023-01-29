@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://github.com/mingyuchoo/remix-study-series/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/mingyuchoo/remix-study-series"/></a>
   <a href="https://github.com/mingyuchoo/remix-study-series/issues"><img alt="Issues" src="https://img.shields.io/github/issues/mingyuchoo/remix-study-series?color=appveyor" /></a>
   <a href="https://github.com/mingyuchoo/remix-study-series/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mingyuchoo/remix-study-series?color=appveyor" /></a>
 </p>
